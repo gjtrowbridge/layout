@@ -1,3 +1,18 @@
 body {
   /* rules go here */
 }
+
+div.gglimg {
+	padding-top:112px;
+	padding-bottom:25px;
+}
+div.gglsearch {
+	padding-bottom:20px;
+}
+img {
+  height:95px;
+  width:269px;
+}
+input {
+	width:500px;
+}
